@@ -1,0 +1,7 @@
+C:\Users\nandi\source\repos\lindisj\bin\Debug\lindisj.exe.config
+C:\Users\nandi\source\repos\lindisj\bin\Debug\lindisj.exe
+C:\Users\nandi\source\repos\lindisj\bin\Debug\lindisj.pdb
+C:\Users\nandi\source\repos\lindisj\obj\Debug\lindisj.csproj.AssemblyReference.cache
+C:\Users\nandi\source\repos\lindisj\obj\Debug\lindisj.csproj.CoreCompileInputs.cache
+C:\Users\nandi\source\repos\lindisj\obj\Debug\lindisj.exe
+C:\Users\nandi\source\repos\lindisj\obj\Debug\lindisj.pdb
